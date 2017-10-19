@@ -1,1 +1,6 @@
-
+{
+    "HOME": {
+        "HELLO": "Hola",
+        "WELCOME": ""
+    }
+}
