@@ -1,38 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file source-language="en" datatype="plaintext" original="ng2.template">
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="ng2.template" datatype="plaintext" xml:space="preserve" source-language="en" target-language="es">
+    <header>
+      <tool tool-id="poeditor.com" tool-name="POEditor"/>
+    </header>
     <body>
-      <trans-unit id="HomeWelcome" datatype="html">
-        <source>Hi, we&apos;re glad you&apos;re here!</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/pages/home/home.component.ts</context>
-          <context context-type="linenumber">7</context>
-        </context-group>
+      <trans-unit id="HomeWelcome">
+        <source></source>
+        <target>Hola, nos alegramos de que estés aquí!</target>
       </trans-unit>
-      <trans-unit id="UploadReportMessage" datatype="html">
-        <source>
-		Upload your credit report to get started. Don&apos;t have your report? Download it at <x id="START_LINK" ctype="x-a"/>annualcreditreport.com<x id="CLOSE_LINK" ctype="x-a"/>.
-			</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/pages/home/home.component.ts</context>
-          <context context-type="linenumber">10</context>
-        </context-group>
+      <trans-unit id="UploadReportMessage">
+        <source></source>
+        <target>Sube to informe de crédito para empezar. No tienes tu informe? Descárgalo de aquí &lt;a class="link-2" href="https://annualcreditreport.com" target="_blank"&gt;annualcreditreport.com&lt;/a&gt;</target>
       </trans-unit>
-      <trans-unit id="FreeService" datatype="html">
-        <source>
-			This 100% free service does not negatively impact your credit.
-			</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/pages/home/home.component.ts</context>
-          <context context-type="linenumber">13</context>
-        </context-group>
+      <trans-unit id="FreeService">
+        <source></source>
+        <target>Este servicio 100% gratuito no afecta negativamente en tu crédito.</target>
       </trans-unit>
-      <trans-unit id="HomeButton" datatype="html">
-        <source>Click to upload</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/components/upload-credit-report/upload-credit-report.component.ts</context>
-          <context context-type="linenumber">2</context>
-        </context-group>
+      <trans-unit id="HomeButton">
+        <source></source>
+        <target>Pulsa para subir</target>
       </trans-unit>
     </body>
   </file>
