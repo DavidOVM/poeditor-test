@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="ng2.template" datatype="plaintext" xml:space="preserve" source-language="en" target-language="es">
+    <header>
+      <tool tool-id="poeditor.com" tool-name="POEditor"/>
+    </header>
+    <body>
+      <trans-unit id="HomeWelcome">
+        <source></source>
+        <target>Hi, we're glad you're here!</target>
+      </trans-unit>
+      <trans-unit id="UploadReportMessage">
+        <source></source>
+        <target>Upload your credit report to get started. Don't have your report? Download it at <a class="link-2" href="https://annualcreditreport.com" target="_blank">annualcreditreport.com</a>.</target>
+      </trans-unit>
+      <trans-unit id="FreeService">
+        <source></source>
+        <target>This 100% free service does not negatively impact your credit.</target>
+      </trans-unit>
+      <trans-unit id="HomeButton">
+        <source></source>
+        <target>Click to upload</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
