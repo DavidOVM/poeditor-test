@@ -10,8 +10,8 @@
         <target>Hi, we're glad you're here!</target>
       </trans-unit>
       <trans-unit id="UploadReportMessage">
-        <source>Upload your credit report to get started. Don't have your report? Download it at annualcreditreport.com.</source>
-        <target>Upload your credit report to get started. Don't have your report? Download it at annualcreditreport.com.</target>
+        <source>Upload your credit report to get started. Don't have your report? Download it at &lt;a class="link-2" href="https://annualcreditreport.com" target="_blank"&gt;annualcreditreport.com&lt;/a&gt;.</source>
+        <target>Upload your credit report to get started. Don't have your report? Download it at &lt;a class="link-2" href="https://annualcreditreport.com" target="_blank"&gt;annualcreditreport.com&lt;/a&gt;.</target>
       </trans-unit>
       <trans-unit id="FreeService">
         <source>This 100% free service does not negatively impact your credit.</source>
